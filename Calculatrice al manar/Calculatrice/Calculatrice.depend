@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1695989336 source:c:\users\user\desktop\calculatrice al manar\calculatrice\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<cmath>
+
